@@ -1,6 +1,8 @@
 # 📱 Flutter Calculator App
 
 A sleek, professional-grade calculator app built with Flutter. This project was developed as the final graduation project for the **[Bootcamp Name]**. It demonstrates the use of custom widgets, state management, and external mathematical parsing.
+## Image
+<img width="419" height="863" alt="image" src="https://github.com/user-attachments/assets/38c4f00d-5c8a-4657-abf4-04b7b4828e3b" />
 
 ## 🚀 Features
 - **Clean UI:** Dark-themed interface with high-contrast buttons.
